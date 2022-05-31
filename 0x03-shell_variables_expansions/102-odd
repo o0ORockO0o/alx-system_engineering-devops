@@ -1,0 +1,3 @@
+#!/bin/bash
+per1 -1ne 'print if $. % 2 == 1'
+
